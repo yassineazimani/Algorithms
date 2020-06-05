@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="672946ad-9392-470a-9cd7-21d8fb1e1833" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/words.FizzBuzzUT.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/words.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exceptions/ArgException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ArgException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/numbers/NombrePremiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/numbers/NombrePremiers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +93,27 @@
       <recent name="C:\Users\yassine\IdeaProjects\Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.SimpleListUT">
+  <component name="RunManager" selected="Gradle.NombrePremiersUT">
+    <configuration name="NombrePremiersUT" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;numbers.NombrePremiersUT&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="SimpleListUT" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -178,33 +194,13 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SimpleListUT.index_of_ghi_when_listStr_already_initialized_return_negative_1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;structure.SimpleListUT.index_of_ghi_when_listStr_already_initialized_return_negative_1&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.NombrePremiersUT" />
         <item itemvalue="Gradle.SimpleListUT" />
         <item itemvalue="Gradle.SimpleListUT.contains_def_when_list_already_initialized_should_return_false" />
         <item itemvalue="Gradle.SimpleListUT.contains_def_when_list_already_initialized_should_return_true" />
         <item itemvalue="Gradle.SimpleListUT.index_of_def_when_list_already_initialized_should_return_idx_1" />
-        <item itemvalue="Gradle.SimpleListUT.index_of_ghi_when_listStr_already_initialized_return_negative_1" />
       </list>
     </recent_temporary>
   </component>
@@ -254,46 +250,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="453" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591380011037" />
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1591383589654">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1591383826739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383589654" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1591383589654">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383826739" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1591383826738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383589654" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1591383589654">
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383826738" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1591383826738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383589654" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1591383589654">
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383826738" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1591383826739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383589654" />
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1591383499644">
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383826739" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1591383826730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383499644" />
-    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1591383499644">
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383826730" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1591383826729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383499644" />
-    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1591383499644">
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383826729" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1591383826729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383499644" />
-    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1591383499644">
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383826729" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1591383826729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383499644" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591383826729" />
     <state x="463" y="151" key="SettingsEditor" timestamp="1590512294970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="151" key="SettingsEditor/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1590512294970" />
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1591367804914">
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1591395636974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591367804914" />
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591395636974" />
     <state x="342" y="137" key="new project wizard" timestamp="1591217458676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

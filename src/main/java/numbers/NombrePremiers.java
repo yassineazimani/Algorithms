@@ -26,16 +26,15 @@ public class NombrePremiers {
 
     /**
      * Génération de l'ensemble des nombres premiers.
+     *
      * @param max Recherche des nombres premiers jusqu'au nombre max.
      * @return nombres premiers
      */
     public static List<Integer> getNombrePremiers(int max) {
         List<Integer> primeNumbers = new ArrayList<>();
-        for(int i = 2; i < max; ++i){
-            if(i % 1 == 0 && i % i == 0) {
-                if(isPrime(i)){
-                    primeNumbers.add(i);
-                }
+        for (int i = 2; i < max; ++i) {
+            if (isPrime(i)) {
+                primeNumbers.add(i);
             }
         }
         return primeNumbers;
@@ -43,13 +42,14 @@ public class NombrePremiers {
 
     /**
      * Vérifie que le nombre i est un nombre premier.
+     *
      * @param i Nombre à tester
      * @return boolean
      */
-    private static boolean isPrime(int i){
+    private static boolean isPrime(int i) {
         boolean isPrime = true;
         for (int j = 2; j < i; ++j) {
-            if(i % j == 0){
+            if (i % j == 0) {
                 isPrime = false;
             }
         }
