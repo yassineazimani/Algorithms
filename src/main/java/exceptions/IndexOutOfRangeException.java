@@ -16,12 +16,12 @@
 package exceptions;
 
 /**
- * Exception levé en cas de soucis avec un argument
+ * Exception levée lorsqu'un index qui n'existe pas est appelé.
  */
-public class ArgException extends Exception{
+public class IndexOutOfRangeException extends Exception{
 
-    public ArgException(String s) {
-        super(s);
-    }// ArgException()
+    public IndexOutOfRangeException(String message) {
+        super(message);
+    }// IndexOutOfRangeException()
 
-}// ArgException
+}// IndexOutOfRangeException

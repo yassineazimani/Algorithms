@@ -29,13 +29,13 @@ Repository Github destiné aux personnes à qui je donne des cours d'algorithme/
 
 #### Nombres premiers
 
-### Structures de données (En cours)
+### Structures de données 
 
 #### Liste chaînée
 
-#### Liste doublement chaînée
+#### Liste doublement chaînée (En cours)
 
-#### Liste chaînée circulaire
+#### Liste chaînée circulaire (En cours)
 
 ### Arbre (En cours)
 
