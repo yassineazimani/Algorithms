@@ -33,9 +33,9 @@ Repository Github destiné aux personnes à qui je donne des cours d'algorithme/
 
 #### Liste chaînée
 
-#### Liste doublement chaînée (En cours)
+#### Liste doublement chaînée
 
-#### Liste chaînée circulaire (En cours)
+#### Liste chaînée circulaire
 
 ### Arbre (En cours)
 
