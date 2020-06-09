@@ -6,18 +6,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/structure.CircularListUT.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/structure.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-structure.CircularListUT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Application.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +103,7 @@
       <recent name="C:\Users\yassine\IdeaProjects\Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.DijkstraUT">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="Algorithms.main" />
@@ -254,50 +247,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591210029424" />
-    <state width="469" height="466" key="DebuggerActiveHint" timestamp="1591736464470">
+    <state width="469" height="466" key="DebuggerActiveHint" timestamp="1591737985141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="469" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591736464470" />
-    <state width="1876" height="324" key="GridCell.Tab.0.bottom" timestamp="1591736918001">
+    <state width="469" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591737985141" />
+    <state width="1876" height="324" key="GridCell.Tab.0.bottom" timestamp="1591738061566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591736918001" />
-    <state width="1876" height="324" key="GridCell.Tab.0.center" timestamp="1591736918001">
+    <state width="1876" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738061566" />
+    <state width="1876" height="324" key="GridCell.Tab.0.center" timestamp="1591738061566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591736918001" />
-    <state width="1876" height="324" key="GridCell.Tab.0.left" timestamp="1591736918000">
+    <state width="1876" height="324" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738061566" />
+    <state width="1876" height="324" key="GridCell.Tab.0.left" timestamp="1591738061566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591736918000" />
-    <state width="1876" height="324" key="GridCell.Tab.0.right" timestamp="1591736918001">
+    <state width="1876" height="324" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738061566" />
+    <state width="1876" height="324" key="GridCell.Tab.0.right" timestamp="1591738061566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591736918001" />
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1591736615736">
+    <state width="1876" height="324" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738061566" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1591738008954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591736615736" />
-    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1591736615736">
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738008954" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1591738008954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591736615736" />
-    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1591736615736">
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738008954" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1591738008954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591736615736" />
-    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1591736615736">
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738008954" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1591738008954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591736615736" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738008954" />
     <state x="463" y="151" key="SettingsEditor" timestamp="1590512294970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="151" key="SettingsEditor/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1590512294970" />
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1591719490578">
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1591737320656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591719490578" />
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591737320656" />
     <state x="342" y="137" key="new project wizard" timestamp="1591217458676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -223,7 +223,7 @@ public class DijkstraUT {
         final Float[][] distances = {{0f, 3f, 2.8f, 1f, 0.5f, null, null, null, null, null, null},
                                      {3f, 0f, null, null, null, null, null, 1.5f, 2.3f, null, null},
                                      {2.8f, null, 0f, null, null, null, null, null, null, 3f, 3.1f},
-                                     {1f, null, null, 0f, 0.1f, 0.2f, 11f, null, null, null, null},
+                                     {1f, null, null, 0f, 0.1f, 9.2f, 11f, null, null, null, null},
                                      {0.5f, null, null, 0.1f, 0f, 4.8f, null, null, null, null, null},
                                      {null, null, null, 9.2f, 4.8f, 0f, null, null, null, null, null},
                                      {null, null, null, 11f, null, null, 0f, 3.88f, null, null, null},
