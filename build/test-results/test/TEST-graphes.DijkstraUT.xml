@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="graphes.DijkstraUT" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-06-09T21:08:34" hostname="yassine-PC" time="0.07">
+  <properties/>
+  <testcase name="calculateShortPath_avignon_to_aramon_when_graph_has_full_nodes_from_area_avignon_should_be_avignon_rognonas_barbentane_aramon" classname="graphes.DijkstraUT" time="0.063"/>
+  <testcase name="calculateShortPath_when_departure_is_empty_should_throw_graph_exception" classname="graphes.DijkstraUT" time="0.003"/>
+  <testcase name="calculateShortPath_all_cities_from_rognonas_when_graph_has_nodes_avignon_rognonas_pontet_should_success" classname="graphes.DijkstraUT" time="0.0"/>
+  <testcase name="calculateShortPath_should_throw_graph_exception_when_weights_arent_matrix" classname="graphes.DijkstraUT" time="0.0"/>
+  <testcase name="calculateShortPath_all_cities_from_avignon_when_graph_has_nodes_avignon_rognonas_pontet_should_success" classname="graphes.DijkstraUT" time="0.0"/>
+  <testcase name="calculateShortPath_should_throw_graph_exception_when_weights_are_null" classname="graphes.DijkstraUT" time="0.0"/>
+  <testcase name="calculateShortPath_when_departure_is_null_should_throw_graph_exception" classname="graphes.DijkstraUT" time="0.001"/>
+  <testcase name="calculateShortPath_should_throw_graph_exception_when_summits_are_null" classname="graphes.DijkstraUT" time="0.0"/>
+  <testcase name="calculateShortPath_between_avignon_and_rognonas_from_avignon_when_graph_has_nodes_avignon_rognonas_is_avignon_rognonas" classname="graphes.DijkstraUT" time="0.0"/>
+  <testcase name="calculateShortPath_between_avignon_and_rognonas_from_avignon_when_graph_has_nodes_avignon_rognonas_pontet_is_avignon_rognonas" classname="graphes.DijkstraUT" time="0.001"/>
+  <testcase name="calculateShortPath_should_throw_graph_exception_when_summits_are_empty" classname="graphes.DijkstraUT" time="0.0"/>
+  <testcase name="calculateShortPath_should_throw_graph_exception_when_weights_havent_same_width_than_nodes_size" classname="graphes.DijkstraUT" time="0.001"/>
+  <testcase name="calculateShortPath_between_avignon_and_pontet_from_avignon_when_graph_has_nodes_avignon_rognonas_pontet_is_avignon_pontet" classname="graphes.DijkstraUT" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
