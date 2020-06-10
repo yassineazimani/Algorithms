@@ -45,15 +45,15 @@ public class OddEventSort {
     }// test()
 
     private static <T extends Comparable<T>> boolean sortPair(List<T> list, boolean isSorted){
-        for(int i = 0; i < list.size()-1; ++i){
-            isSorted = test(list, i, i+1, isSorted); // Possibilité de les paralléliser
+        for(int i = 0; i < list.size()-1; i += 2){
+            isSorted = test(list, i, i+1, isSorted);
         }
         return isSorted;
     }// sortPair()
 
     private static <T extends Comparable<T>> boolean sortOdd(List<T> list, boolean isSorted) {
-        for(int j = 1; j < list.size()-1; ++j){
-            isSorted = test(list, j, j+1, isSorted); // Possibilité de les paralléliser
+        for(int j = 1; j < list.size()-1; j += 2){
+            isSorted = test(list, j, j+1, isSorted);
         }
         return isSorted;
     }// sortOdd()

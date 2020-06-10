@@ -101,6 +101,16 @@ public class Application {
                 System.out.println("Distance " + villes[6] + " to " + ville + " : " + detailsPath.get("distance") + "km");
                 System.out.println();
             }
+
+            dijkstra.reinit(distances, villes);
+            dijkstra.calculateShortPath(villes[9]); // calcul à partir de Montfavet vers toutes les autres villes de l'agglomération
+            System.out.println("Montfavet -> Others cities");
+            for(String ville : villes){
+                Map<String, String> detailsPath = dijkstra.getShortDistanceTo(ville);
+                System.out.println("Itinerary " + villes[9] + " to " + ville + " : " + detailsPath.get("path"));
+                System.out.println("Distance " + villes[9] + " to " + ville + " : " + detailsPath.get("distance") + "km");
+                System.out.println();
+            }
             System.out.println("*** End Short path (Dijkstra) ***");
         }catch(GraphException ge){
             ge.printStackTrace();

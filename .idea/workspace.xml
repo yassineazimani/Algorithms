@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="672946ad-9392-470a-9cd7-21d8fb1e1833" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/OddEventSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/OddEventSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,20 +98,13 @@
       <recent name="C:\Users\yassine\IdeaProjects\Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Application" />
-      <module name="Algorithms.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DijkstraUT" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.OddEventSortUT">
+    <configuration name="OddEventSortUT" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;graphes.DijkstraUT&quot;" />
+        <option name="scriptParameters" value="--tests &quot;sort.OddEventSortUT&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -131,12 +119,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DijkstraUT.calculateShortPath_all_cities_from_avignon_when_graph_has_nodes_avignon_rognonas_pontet_should_success" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TreeUT" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;graphes.DijkstraUT.calculateShortPath_all_cities_from_avignon_when_graph_has_nodes_avignon_rognonas_pontet_should_success&quot;" />
+        <option name="scriptParameters" value="--tests &quot;structure.TreeUT&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -151,12 +139,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DijkstraUT.calculateShortPath_all_cities_from_rognonas_when_graph_has_nodes_avignon_rognonas_pontet_should_success" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TreeUT.parcours_infixe_should_be_1_2_3_4_5_6_7_8_9_10_when_nodes_are_1_2_3_4_5_6_7_8_9_10" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;graphes.DijkstraUT.calculateShortPath_all_cities_from_rognonas_when_graph_has_nodes_avignon_rognonas_pontet_should_success&quot;" />
+        <option name="scriptParameters" value="--tests &quot;structure.TreeUT.parcours_infixe_should_be_1_2_3_4_5_6_7_8_9_10_when_nodes_are_1_2_3_4_5_6_7_8_9_10&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -171,12 +159,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DijkstraUT.calculateShortPath_avignon_to_aramon_when_graph_has_full_nodes_from_area_avignon_should_be_avignon_rognonas_barbentane_aramon" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TreeUT.parcours_infixe_should_be_8_4_9_2_10_5_1_6_3_7_when_nodes_are_1_2_3_4_5_6_7_8_9_10" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;graphes.DijkstraUT.calculateShortPath_avignon_to_aramon_when_graph_has_full_nodes_from_area_avignon_should_be_avignon_rognonas_barbentane_aramon&quot;" />
+        <option name="scriptParameters" value="--tests &quot;structure.TreeUT.parcours_infixe_should_be_8_4_9_2_10_5_1_6_3_7_when_nodes_are_1_2_3_4_5_6_7_8_9_10&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TreeUT.parcours_postfixe_should_be_8_9_4_10_5_2_6_7_3_1_when_nodes_are_1_2_3_4_5_6_7_8_9_10" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;structure.TreeUT.parcours_postfixe_should_be_8_9_4_10_5_2_6_7_3_1_when_nodes_are_1_2_3_4_5_6_7_8_9_10&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -193,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.DijkstraUT" />
-        <item itemvalue="Application.Application" />
-        <item itemvalue="Gradle.DijkstraUT.calculateShortPath_avignon_to_aramon_when_graph_has_full_nodes_from_area_avignon_should_be_avignon_rognonas_barbentane_aramon" />
-        <item itemvalue="Gradle.DijkstraUT.calculateShortPath_all_cities_from_rognonas_when_graph_has_nodes_avignon_rognonas_pontet_should_success" />
-        <item itemvalue="Gradle.DijkstraUT.calculateShortPath_all_cities_from_avignon_when_graph_has_nodes_avignon_rognonas_pontet_should_success" />
+        <item itemvalue="Gradle.OddEventSortUT" />
+        <item itemvalue="Gradle.TreeUT" />
+        <item itemvalue="Gradle.TreeUT.parcours_postfixe_should_be_8_9_4_10_5_2_6_7_3_1_when_nodes_are_1_2_3_4_5_6_7_8_9_10" />
+        <item itemvalue="Gradle.TreeUT.parcours_infixe_should_be_1_2_3_4_5_6_7_8_9_10_when_nodes_are_1_2_3_4_5_6_7_8_9_10" />
+        <item itemvalue="Gradle.TreeUT.parcours_infixe_should_be_8_4_9_2_10_5_1_6_3_7_when_nodes_are_1_2_3_4_5_6_7_8_9_10" />
       </list>
     </recent_temporary>
   </component>
@@ -231,66 +239,70 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="686" y="163" width="976" height="714" key="#PalindromesUT.taggât_should_be_palindrome/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1590512217053" />
-    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1591563700272">
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1591813637690">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591563700272" />
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591813637690" />
     <state x="690" y="300" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1591375792647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="300" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591375792647" />
-    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591721897975">
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591812553695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591721897975" />
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591812553695" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591811851934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591811851934" />
     <state x="722" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591210029424">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591210029424" />
-    <state width="469" height="466" key="DebuggerActiveHint" timestamp="1591737985141">
+    <state width="469" height="466" key="DebuggerActiveHint" timestamp="1591816594560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="469" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591737985141" />
-    <state width="1876" height="324" key="GridCell.Tab.0.bottom" timestamp="1591738061566">
+    <state width="469" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591816594560" />
+    <state width="1876" height="324" key="GridCell.Tab.0.bottom" timestamp="1591824301828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738061566" />
-    <state width="1876" height="324" key="GridCell.Tab.0.center" timestamp="1591738061566">
+    <state width="1876" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824301828" />
+    <state width="1876" height="324" key="GridCell.Tab.0.center" timestamp="1591824301828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738061566" />
-    <state width="1876" height="324" key="GridCell.Tab.0.left" timestamp="1591738061566">
+    <state width="1876" height="324" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824301828" />
+    <state width="1876" height="324" key="GridCell.Tab.0.left" timestamp="1591824301828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738061566" />
-    <state width="1876" height="324" key="GridCell.Tab.0.right" timestamp="1591738061566">
+    <state width="1876" height="324" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824301828" />
+    <state width="1876" height="324" key="GridCell.Tab.0.right" timestamp="1591824301828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738061566" />
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1591738008954">
+    <state width="1876" height="324" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824301828" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1591816667192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738008954" />
-    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1591738008954">
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591816667192" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1591816667192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738008954" />
-    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1591738008954">
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591816667192" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1591816667192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738008954" />
-    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1591738008954">
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591816667192" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1591816667192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591738008954" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591816667192" />
     <state x="463" y="151" key="SettingsEditor" timestamp="1590512294970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="151" key="SettingsEditor/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1590512294970" />
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1591737320656">
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1591810210817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591737320656" />
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591810210817" />
     <state x="342" y="137" key="new project wizard" timestamp="1591217458676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
