@@ -123,9 +123,78 @@ on recommencerait les comparaisons paires/impaires et impaires/paires.
 
 #### Tri peigne
 
+Le tri peigne est une variante du tri à bulles. La différence est que la comparaison
+de deux éléments ne se fait pas pour un élément placé à une position i et à un autre élément
+placé à une position i+1, elle se fait pour un élément placé à une position i et à
+un autre élément placé à une position i+N avec N qui se réduit au fur et à mesure
+du traitement.
+
+**Exemple** : 15 2 20 3
+
+De manière générale N qui est une intervalle est calculé de la manière suivante :
+
+taille du tableau / 1.3 puis si le tableau n'est pas encore trié, N est recalculé comme
+ceci : N = N / 1.3
+
+Dans notre exemple, N fera d'abord taille du tableau / 1.3 <=> 4 / 1.3 = 3 
+
+Etape 1 :
+
+T[i] > T[i+N] ? Soit T[0] > T[0+3] ? Soit 15 > 3 ? Oui on échange.
+
+**15** 2 20 3 devient 3 2 20 **15**
+
+On atteint la fin du tableau, le tableau n'est pas encore trié.
+
+Etape 2 :
+
+Recalcul de N = N / 1.3 = 3 / 1.3 = 2
+
+i = 0 : 
+
+T[i] > T[i+N] ? Soit T[0] > T[0+2] ? Soit 3 > 20 ? Non, on échange pas. On incrémente i de 1.
+
+i = 1 : 
+
+T[i] > T[i+N] ? Soit T[1] > T[1+2] ? Soit 2 > 15 ? Non, on échange pas. On a atteint la fin du
+tableau, le tableau n'est pas encore trié.
+
+Etape 3 :
+
+Recalcul de N = N / 1.3 = 2 / 1.3 = 1
+
+i = 0 :
+
+T[i] > T[i+N] ? Soit T[0] > T[0+1] ? Soit 3 > 2 ? Oui, on échange
+
+**3** 2 20 15 devient 2 **3** 20 15
+
+On incrément i de 1.
+
+i = 1 :
+
+T[i] > T[i+N] ? Soit T[1] > T[1+1] ? T[1] > T[2] ? Soit 3 > 20 ? Non, on échange pas. On incrémente i de 1.
+
+i = 2 :
+
+T[i] > T[i+N] ? Soit T[2] > T[2+1] ? T[2] > T[3] ? Soit 20 > 15 ? Oui, on échange
+
+2 3 **20** 15 devient 2 3 15 **20**
+
+Le tableau est trié, on arrête le tri.
+
 #### Tri rapide
 
+Le tri rapide suit le fameux dicton **"Diviser pour mieux régner"**. L'algorithme consiste donc
+à partitionner le tableau en fonction d'un pivot qui peut être choisit aléatoirement ou arbitrairement
+(exemple : indice 0 pour le début du tableau). Les éléments qui sont plus petits que l'élément pivot seront
+positionnés à sa gauche et les éléments plus grands que ce dernier, seront positionnés à sa droite.
+
+https://fr.wikipedia.org/wiki/Tri_rapide
+
 #### Tri fusion
+
+https://fr.wikipedia.org/wiki/Tri_fusion
 
 ### Chaînes de caractères
 
@@ -180,24 +249,26 @@ autre nombre >= 2).
 
 #### Liste chaînée
 
-Description en cours...
+[Description](https://fr.wikipedia.org/wiki/Liste_cha%C3%AEn%C3%A9e)
 
 #### Liste doublement chaînée
 
-Description en cours...
+Le maillon d'une liste doublement chaînée a un pointeur sur le maillon précédent et
+un pointeur sur le maillon suivant.
 
 #### Liste chaînée circulaire
 
-Description en cours...
+Le dernier maillon d'une liste chaînée circulaire a son maillon suivant qui pointe
+sur le premier maillon de la liste.
 
 ### Arbre
 
 #### Arbre binaire de recherche
 
-Description en cours...
+[Description](https://fr.wikipedia.org/wiki/Arbre_binaire_de_recherche)
 
 ### Graphes
 
 #### Dijkstra
 
-Description en cours...
+[Description](https://fr.wikipedia.org/wiki/Algorithme_de_Dijkstra)

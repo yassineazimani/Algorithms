@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="words.FizzBuzzUT" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-10T21:34:06" hostname="yassine-PC" time="0.041">
+  <properties/>
+  <testcase name="fizz_buzz_between_1_and_30_should_return_12Fizz4BuzzFizzbuzz" classname="words.FizzBuzzUT" time="0.041"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

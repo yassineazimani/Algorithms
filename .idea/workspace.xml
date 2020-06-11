@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="672946ad-9392-470a-9cd7-21d8fb1e1833" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/sort.OddEventSortUT.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/sort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-sort.OddEventSortUT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/OddEventSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/OddEventSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +110,34 @@
       <recent name="C:\Users\yassine\IdeaProjects\Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.OddEventSortUT">
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Algorithms.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzUT.fizz_buzz_between_1_and_30_should_return_12Fizz4BuzzFizzbuzz" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;words.FizzBuzzUT.fizz_buzz_between_1_and_30_should_return_12Fizz4BuzzFizzbuzz&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="OddEventSortUT" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -139,46 +178,6 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="TreeUT.parcours_infixe_should_be_1_2_3_4_5_6_7_8_9_10_when_nodes_are_1_2_3_4_5_6_7_8_9_10" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;structure.TreeUT.parcours_infixe_should_be_1_2_3_4_5_6_7_8_9_10_when_nodes_are_1_2_3_4_5_6_7_8_9_10&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="TreeUT.parcours_infixe_should_be_8_4_9_2_10_5_1_6_3_7_when_nodes_are_1_2_3_4_5_6_7_8_9_10" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;structure.TreeUT.parcours_infixe_should_be_8_4_9_2_10_5_1_6_3_7_when_nodes_are_1_2_3_4_5_6_7_8_9_10&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="TreeUT.parcours_postfixe_should_be_8_9_4_10_5_2_6_7_3_1_when_nodes_are_1_2_3_4_5_6_7_8_9_10" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -201,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FizzBuzzUT.fizz_buzz_between_1_and_30_should_return_12Fizz4BuzzFizzbuzz" />
+        <item itemvalue="Application.Application" />
         <item itemvalue="Gradle.OddEventSortUT" />
         <item itemvalue="Gradle.TreeUT" />
         <item itemvalue="Gradle.TreeUT.parcours_postfixe_should_be_8_9_4_10_5_2_6_7_3_1_when_nodes_are_1_2_3_4_5_6_7_8_9_10" />
-        <item itemvalue="Gradle.TreeUT.parcours_infixe_should_be_1_2_3_4_5_6_7_8_9_10_when_nodes_are_1_2_3_4_5_6_7_8_9_10" />
-        <item itemvalue="Gradle.TreeUT.parcours_infixe_should_be_8_4_9_2_10_5_1_6_3_7_when_nodes_are_1_2_3_4_5_6_7_8_9_10" />
       </list>
     </recent_temporary>
   </component>
@@ -263,46 +262,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="469" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591816594560" />
-    <state width="1876" height="324" key="GridCell.Tab.0.bottom" timestamp="1591824301828">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1591824880589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824301828" />
-    <state width="1876" height="324" key="GridCell.Tab.0.center" timestamp="1591824301828">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824880589" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1591824880589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824301828" />
-    <state width="1876" height="324" key="GridCell.Tab.0.left" timestamp="1591824301828">
+    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824880589" />
+    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1591824880589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824301828" />
-    <state width="1876" height="324" key="GridCell.Tab.0.right" timestamp="1591824301828">
+    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824880589" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1591824880589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="324" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824301828" />
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1591816667192">
+    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824880589" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1591824880589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591816667192" />
-    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1591816667192">
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824880589" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1591824880589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591816667192" />
-    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1591816667192">
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824880589" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1591824880589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591816667192" />
-    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1591816667192">
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824880589" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1591824880589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591816667192" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591824880589" />
     <state x="463" y="151" key="SettingsEditor" timestamp="1590512294970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="151" key="SettingsEditor/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1590512294970" />
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1591810210817">
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1591889394366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591810210817" />
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1591889394366" />
     <state x="342" y="137" key="new project wizard" timestamp="1591217458676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

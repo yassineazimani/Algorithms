@@ -19,6 +19,7 @@ import sort.BubbleSort;
 import exceptions.ArgException;
 import sort.CocktailSort;
 import sort.OddEventSort;
+import words.FizzBuzz;
 
 import java.util.List;
 import java.util.Map;
